@@ -2,7 +2,7 @@ package fr.lez.ddd;
 
 public final class ObjectUtils {
 
-    private ObjectUtils() {
+    ObjectUtils() {
 
     }
 
